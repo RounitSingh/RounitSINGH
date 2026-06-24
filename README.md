@@ -1,19 +1,18 @@
-<h2 align="left">Hi 👋! I'm Rounit Singh<br><br>I'm a Front-End Developer with a passion for crafting intuitive and visually appealing user interfaces. I enjoy bringing design concepts to life with code, building interactive experiences, and ensuring exceptional performance across all devices.</h2>
- 
-###
+# 💫 About Me:
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=RounitSingh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RounitSingh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<img align="right" height="150" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
-###
+Hi 👋! I'm **Rounit Singh**
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+I'm a Front-End Developer with a passion for crafting intuitive and visually appealing user interfaces. I enjoy bringing design concepts to life with code, building interactive experiences, and ensuring exceptional performance across all devices.
 
-###
+## 🌐 Socials:
 
-<div align="left">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rounit-singh/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rounitsingh2002@gmail.com)
+
+# 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -62,25 +61,32 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-</div>
+# 📊 GitHub Stats:
 
-###
+![](https://github-readme-stats.shion.dev/api?username=RounitSingh&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=RounitSingh&theme=radical&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RounitSingh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## 🏆 GitHub Trophies
 
-###
+![](https://github-profile-trophy.vercel.app/?username=RounitSingh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<br clear="both">
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=RounitSingh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RounitSingh/RounitSingh/output/snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/RounitSingh/RounitSingh/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RounitSingh/RounitSINGH/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RounitSingh/RounitSINGH/output/snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/RounitSingh/RounitSINGH/output/snake.svg" />
 </picture>
 
-###
+---
 
-
+[![](https://komarev.com/ghpvc/?username=RounitSingh&icon=0&color=0)](https://visitcount.itsvg.in)
