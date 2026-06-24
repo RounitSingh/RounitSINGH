@@ -47,7 +47,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/RounitSingh/RounitSingh/output/snake-dark.svg" />
 </picture>
 
 ###
