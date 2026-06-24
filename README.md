@@ -63,9 +63,10 @@ I'm a Front-End Developer with a passion for crafting intuitive and visually app
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=RounitSingh&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=RounitSingh&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RounitSingh&show_icons=true&theme=radical&hide_border=false&layout=compact&langs_count=8&exclude_repo=RounitSINGH)
+
 ![](https://streak-stats.demolab.com/?user=RounitSingh&theme=radical&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RounitSingh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
@@ -75,9 +76,9 @@ I'm a Front-End Developer with a passion for crafting intuitive and visually app
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 📈 Contribution Graph
 
-![](https://github-contributor-stats.vercel.app/api?username=RounitSingh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=RounitSingh&theme=react&hide_border=false&area=true)
 
 ---
 
@@ -89,4 +90,5 @@ I'm a Front-End Developer with a passion for crafting intuitive and visually app
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=RounitSingh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![](https://komarev.com/ghpvc/?username=RounitSingh)
