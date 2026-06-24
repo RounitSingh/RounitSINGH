@@ -17,15 +17,21 @@ I'm a Front-End Developer with a passion for crafting intuitive and visually app
 
 </div>
 
-##
+---
+
 <div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RounitSingh/RounitSINGH/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RounitSingh/RounitSINGH/output/snake.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/RounitSingh/RounitSINGH/output/snake.svg" />
 </picture>
+
 </div>
-## 💻 Tech Stack:
+
+# 💻 Tech Stack:
+
+<div align="center">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -73,6 +79,8 @@ I'm a Front-End Developer with a passion for crafting intuitive and visually app
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+</div>
 
 ## 🌐 Socials:
 
