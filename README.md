@@ -30,9 +30,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/react-router.svg" height="30" alt="react router logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" height="30" alt="react router logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/react-query.svg" height="30" alt="react query logo"  />
+  <img src="https://cdn.simpleicons.org/reactquery/FF4154" height="30" alt="react query logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
@@ -52,11 +52,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="30" alt="vercel logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/langchain.svg" height="30" alt="langchain logo"  />
+  <img src="https://cdn.simpleicons.org/langchain/7FC8FF" height="30" alt="langchain logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/langgraph.svg" height="30" alt="langgraph logo"  />
+  <img src="https://cdn.simpleicons.org/langgraph/9C4DE6" height="30" alt="langgraph logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
