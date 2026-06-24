@@ -12,6 +12,25 @@ I'm a Front-End Developer with a passion for crafting intuitive and visually app
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rounitsingh2002@gmail.com)
 
+
+# 📊 GitHub Stats:
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=RounitSingh&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RounitSingh&show_icons=true&theme=radical&hide_border=false&layout=compact&langs_count=8&exclude_repo=RounitSINGH)
+
+![](https://streak-stats.demolab.com/?user=RounitSingh&theme=radical&hide_border=false)
+
+</div>
+
+##
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RounitSingh/RounitSINGH/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RounitSingh/RounitSINGH/output/snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/RounitSingh/RounitSINGH/output/snake.svg" />
+</picture>
 # 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -60,25 +79,6 @@ I'm a Front-End Developer with a passion for crafting intuitive and visually app
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-# 📊 GitHub Stats:
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=RounitSingh&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RounitSingh&show_icons=true&theme=radical&hide_border=false&layout=compact&langs_count=8&exclude_repo=RounitSINGH)
-
-![](https://streak-stats.demolab.com/?user=RounitSingh&theme=radical&hide_border=false)
-
-</div>
-
-##
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RounitSingh/RounitSINGH/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RounitSingh/RounitSINGH/output/snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/RounitSingh/RounitSINGH/output/snake.svg" />
-</picture>
 
 
 ## 🏆 GitHub Trophies
