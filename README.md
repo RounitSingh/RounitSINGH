@@ -63,14 +63,27 @@ I'm a Front-End Developer with a passion for crafting intuitive and visually app
 
 # 📊 GitHub Stats:
 
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=RounitSingh&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RounitSingh&show_icons=true&theme=radical&hide_border=false&layout=compact&langs_count=8&exclude_repo=RounitSINGH)
 
 ![](https://streak-stats.demolab.com/?user=RounitSingh&theme=radical&hide_border=false)
 
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RounitSingh/RounitSINGH/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RounitSingh/RounitSINGH/output/snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/RounitSingh/RounitSINGH/output/snake.svg" />
+</picture>
+
+
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=RounitSingh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy-gamma.vercel.app/?username=RounitSingh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
@@ -80,13 +93,6 @@ I'm a Front-End Developer with a passion for crafting intuitive and visually app
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=RounitSingh&theme=react&hide_border=false&area=true)
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RounitSingh/RounitSINGH/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RounitSingh/RounitSINGH/output/snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/RounitSingh/RounitSINGH/output/snake.svg" />
-</picture>
 
 ---
 
