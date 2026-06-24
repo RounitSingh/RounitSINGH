@@ -102,14 +102,14 @@ I'm a Front-End Developer with a passion for crafting intuitive and visually app
 
 </div>
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=RounitSingh&theme=react&hide_border=false&area=true)
 
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
