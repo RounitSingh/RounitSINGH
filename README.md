@@ -6,13 +6,6 @@ Hi 👋! I'm **Rounit Singh**
 
 I'm a Front-End Developer with a passion for crafting intuitive and visually appealing user interfaces. I enjoy bringing design concepts to life with code, building interactive experiences, and ensuring exceptional performance across all devices.
 
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rounit-singh/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rounitsingh2002@gmail.com)
-
-
 # 📊 GitHub Stats:
 
 <div align="center">
@@ -81,6 +74,11 @@ I'm a Front-End Developer with a passion for crafting intuitive and visually app
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rounit-singh/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rounitsingh2002@gmail.com)
 
 ## 🏆 GitHub Trophies
 
