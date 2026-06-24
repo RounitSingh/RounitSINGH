@@ -72,7 +72,7 @@ I'm a Front-End Developer with a passion for crafting intuitive and visually app
 
 </div>
 
----
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RounitSingh/RounitSINGH/output/snake-dark.svg" />
@@ -83,7 +83,11 @@ I'm a Front-End Developer with a passion for crafting intuitive and visually app
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy-gamma.vercel.app/?username=RounitSingh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+
+![](https://github-profile-trophy-gamma.vercel.app/?username=RounitSingh&theme=radical&no-frame=false&no-bg=true&margin-w=10&margin-h=10&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,%3F&title=Commits,Repositories,PullRequests,Issues,Stars,Followers)
+
+</div>
 
 ### ✍️ Random Dev Quote
 
