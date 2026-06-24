@@ -90,5 +90,4 @@ I'm a Front-End Developer with a passion for crafting intuitive and visually app
 
 ---
 
-
-![](https://komarev.com/ghpvc/?username=RounitSingh)
+[![](https://komarev.com/ghpvc/?username=RounitSingh&icon=0&color=0)]
