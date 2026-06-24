@@ -8,7 +8,7 @@
 
 ## 💫 About Me:
 
-<img align="right" width="160" src="https://avatars.githubusercontent.com/u/117521913?v=4" alt="Rounit Singh" />
+<img align="right" width="160" src="./assets/ronnie.png" alt="Rounit Singh" />
 
 I'm a **Software Developer** with **1+ year** of experience turning ideas into **scalable web apps** — mostly with **React.js**, **Node.js**, and **Express.js**.
 
