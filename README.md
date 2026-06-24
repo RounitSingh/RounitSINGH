@@ -18,13 +18,13 @@ I'm a Front-End Developer with a passion for crafting intuitive and visually app
 </div>
 
 ##
-
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RounitSingh/RounitSINGH/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RounitSingh/RounitSINGH/output/snake.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/RounitSingh/RounitSINGH/output/snake.svg" />
 </picture>
-
+</div>
 ## 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
